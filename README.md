@@ -47,5 +47,5 @@ Monitor its performance over time and update as needed.
 Overview and result of project:
 Visualizing AGE column,Visualizing Categorical Columns,Visualizing AGE vs Categorical Columns,heatmap,training and testing,model building,svc(99%),randomforest(95%),gbc(94%),Knn(93%),Logistic regression(84%).To get reduce the dimensionality of the dataset the PCA can be used,28 model analysis in the machine learning,graph between Accuracy vs model ,Time taken vs model,grid search cv on the DecisionTreeClassifier,lgbm(95%).
 
-comparsion of the all models best accurate result comes from svm (99%)
+Comparsion of the all models best accurate result comes from svm (99%)
 final selected model is Support Vector Machine(svm) 
