@@ -1,4 +1,4 @@
-Title of the project: Predictive Analysis of Skin Cancer Using Stochastic Gradient Boosting Along with Recursive Feature Elimination
+Title of the project: Predictive Analysis of Lung Cancer Using Stochastic Gradient Boosting Along with Recursive Feature Elimination
 
 Steps involved in the project:
 
